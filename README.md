@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **tangvyn/Tangvyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I'm Tangvyn.
+College student, interested in programming.
+
+```Rust
+ let languages = vec!["rust", "python", "cpp", "c", "kotlin"];
+```
+
+Email: Tangvyn@Outlook.com  or  1486895689@qq.com  
